@@ -1,2 +1,2 @@
 # MAS-o-MAV
-Multi-agent Systems of Micro Aerial Vehicles 
+Multi-agent System of Micro Aerial Vehicles 
